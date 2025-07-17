@@ -53,6 +53,8 @@ Removes duplicate `Order ID` entries, keeping the first occurrence (~1,000 uniqu
 Swaps `Order Date` and `Delivery Date` for rows where `Delivery Date` < `Order Date` (~446 rows).\
 Logs errors and warnings to `data_import.log`.\
 
+<img width="589" height="871" alt="Image" src="https://github.com/user-attachments/assets/1e6b8b01-18dd-4342-b946-d0deb12853b9" />
+
 Stored Procedures\
 
 `GetMaxQuantity`: Returns the order with the highest quantity.\
