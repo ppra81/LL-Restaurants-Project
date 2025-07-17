@@ -100,4 +100,4 @@ The Python script handles data quality issues (duplicates, illogical dates).\
 Check `data_import.log` for import errors or warnings.\
 
 License\
-MIT License (if applicable).```
+MIT License
